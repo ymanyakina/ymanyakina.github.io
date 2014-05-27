@@ -88,5 +88,12 @@ body {
    word-wrap: break-word;
    width: 700px;
 
+.research img{
+	height: 300px;
+	position: relative;
+	right: 100px;
+
+}
+
 
 
