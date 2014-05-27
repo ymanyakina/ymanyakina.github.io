@@ -1,0 +1,92 @@
+html{
+	 height: 100%;
+     border-top: 2.5px solid #000000;
+     border-bottom: 3px solid #000000;
+}
+
+body {
+    height: 100%;
+	font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial;
+	padding-left: 10px;
+}
+
+
+.wrap {min-height: 100%;
+}
+
+.main {overflow: auto;
+	padding-bottom: 10px;
+	}  /* must be same height as the footer */
+
+.footer {position: relative;
+	margin-top: -10px; /* negative value of footer height */
+	height: 10px;
+	clear:both;
+    font-size: 15px;
+    padding-top: 15px;
+} 
+
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 19px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.nav li {
+    display: inline;
+}
+
+.title{
+	padding-bottom: 15px;
+	color: #551111;
+}
+
+
+.title h1{
+	font-size: 30px;
+	font-weight: 100;
+
+
+}
+
+.title h2{
+	font-size: 20px;
+	font-weight: 100;
+}
+
+.title a{
+	font-size: 15px;
+	color: #551111;
+	text-decoration: none;
+}
+
+
+
+
+.description p{
+   padding-left: 500px;
+   word-wrap: break-word;
+   width: 1000px;
+}
+
+
+.description img{
+	height: 300px;
+	position: relative;
+	left: 100px;
+}
+
+.description p a{
+	color: #551111;
+}
+
+.research p{
+   word-wrap: break-word;
+   width: 700px;
+
+
+
