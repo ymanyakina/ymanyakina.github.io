@@ -81,7 +81,7 @@ body {
 }
 
 .description p a{
-	color: #551111;
+	color: #A32638;
 }
 
 .research p{
@@ -95,6 +95,13 @@ body {
 
 }
 
+.research a{
+	color: #A32638;
+}
+
+.cv p a {
+	color: #A32638;
+}
 
   
 
