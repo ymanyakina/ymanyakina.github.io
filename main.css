@@ -10,6 +10,7 @@ body {
 	padding-left: 10px;
 }
 
+iframe[id^='twitter-widget-']{ width:240px !important;}
 
 .wrap {min-height: 100%;
 }
@@ -82,6 +83,10 @@ body {
 
 .description p a{
 	color: #A32638;
+}
+
+.description container-fluid{
+	height: 300px;
 }
 
 .research p{
