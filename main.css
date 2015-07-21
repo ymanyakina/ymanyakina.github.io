@@ -41,6 +41,13 @@ iframe[id^='twitter-widget-']{ width:240px !important;}
     display: inline;
 }
 
+.twitter-timeline {
+	position: absolute;
+	right: 100px;
+	top: 240px;
+
+}
+
 .title{
 	padding-bottom: 15px;
 	color: #551111;
