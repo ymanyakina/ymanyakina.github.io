@@ -1,12 +1,10 @@
 html{
 	 height: 100%;
-     border-top: 2.5px solid #000000;
-     border-bottom: 3px solid #000000;
 }
 
 body {
     height: 100%;
-	font-family: "Helvetica Neue Light", "HelveticaNeue-Light", "Helvetica Neue", Calibri, Helvetica, Arial;
+	font-family: "Lato Light", "Lato";
 	padding-left: 10px;
 }
 
@@ -41,10 +39,10 @@ iframe[id^='twitter-widget-']{ width:240px !important;}
     display: inline;
 }
 
-.twitter-timeline {
-	position: absolute;
-	right: 100px;
-	top: 240px;
+/*.twitter-timeline {*/
+	/*position: fixed;*/
+	/*right: 100px;*/
+	/*top: 240px;*/
 
 }
 
